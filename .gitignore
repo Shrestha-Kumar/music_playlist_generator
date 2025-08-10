@@ -1,0 +1,9 @@
+# Ignore dataset
+fma_small/
+
+# Ignore generated files
+*.pkl
+__pycache__/
+
+# code without comments
+my_code.txt
