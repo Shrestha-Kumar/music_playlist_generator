@@ -116,8 +116,8 @@ else:
 
 # --- Generate a Playlist ---
 # Example: Generate recommendations for the song at index 7996
-if 'similarity_vectors' in locals() and len(similarity_vectors) > 2:
-    playlist_generator(song_index=2, 
+if 'similarity_vectors' in locals() and len(similarity_vectors) > 7996:
+    playlist_generator(song_index=7996, 
                        feature_vectors=similarity_vectors, 
                        titles=title_dict)
 else:
