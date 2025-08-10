@@ -59,8 +59,8 @@ This project processes audio files (from datasets like [FMA - Free Music Archive
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/music-playlist-generator.git
-   cd music-playlist-generator
+   git clone https://github.com/Shrestha-Kumar/music_playlist_generator.git
+   cd music_playlist_generator
    ```
 
 2. **Install dependencies**
@@ -92,10 +92,16 @@ playlist_generator(song_index=7996,
 ```
 🎶🎶 Recommended songs based on your selection 🎶🎶
 
-      1. track_000.mp3
-      2. track_001.mp3
-      3. track_002.mp3
-      ...
+      1. 081555.mp3
+      2. 074348.mp3
+      3. 127494.mp3
+      4. 122199.mp3
+      5. 135373.mp3
+      6. 114037.mp3
+      7. 086761.mp3
+      8. 051273.mp3
+      9. 097545.mp3
+      10. 066638.mp3
 ```
 
 ---
